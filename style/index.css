@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.nav {
+	background-color: black;
+	border-bottom: 3px solid #22C4A5;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1;
+}
+
+.Logo {
+	display: flex;
+	width: 180px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.Logo img {
+	width: 100%;
+}
