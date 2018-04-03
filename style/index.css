@@ -3,6 +3,10 @@
 	padding: 0px;
 }
 
+body {
+	background-color: white;
+}
+
 .nav {
 	background-color: black;
 	border-bottom: 3px solid #22C4A5;
